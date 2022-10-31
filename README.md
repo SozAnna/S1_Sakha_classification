@@ -8,3 +8,5 @@ Google Doc: https://docs.google.com/document/d/1a6PWhFuf9Mh8lYRSYjTQxLEuj0XZBNVL
 
 Сохраненная обученная модель для патчей 15 пикс. https://disk.yandex.ru/d/srElP3_Op4KlmQ. 
 Есть шанс, что я ее неправильно сохранила
+
+Модель от 31 окт https://disk.yandex.ru/d/4nYqcSBa98yp0w
