@@ -7,3 +7,7 @@ Google Doc: https://docs.google.com/document/d/1a6PWhFuf9Mh8lYRSYjTQxLEuj0XZBNVL
 Юпитер ноутбук прикреплен `Forest_mask_nn`
 
 Модель CNN от 31 окт https://disk.yandex.ru/d/4nYqcSBa98yp0w
+
+Результат CNN https://disk.yandex.ru/d/73fNF85YVFHr6A
+
+Результат RF https://disk.yandex.ru/d/tn902X0Y0Ru46w
