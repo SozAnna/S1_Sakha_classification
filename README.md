@@ -2,7 +2,11 @@
 
 Обзор литературы сведён в гугл-таблицу: https://docs.google.com/spreadsheets/d/10v-0A6aDt0Ujn4pGWq4DKci6Gv722wW09OlXM1KDBIk/edit?usp=sharing
 
-Юпитер ноутбук прикреплен `Forest_mask_nn`
+Этот же файл на гугл-диске, откуда его сразу можно открыть в Google Colab:
+https://drive.google.com/file/d/1HRJE9FNewhkjNs1B9XRx1kHC3Y60ouMj/view?usp=share_link
+
+Этот же файл на гугл-диске, откуда его сразу можно открыть в Google Colab:
+https://drive.google.com/file/d/1BpJjdd4AtlyehJCfXu4P0JmL37jm0ChP/view?usp=share_link
 
 `forest_mask_Experiments` - файл, в котором можно посмотреть множество картинок и метрик, повествующих о моих скитаниях в поисках решений. Не выполняется
 
