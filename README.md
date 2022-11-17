@@ -5,7 +5,7 @@
 Этот же файл на гугл-диске, откуда его сразу можно открыть в Google Colab:
 https://drive.google.com/file/d/1HRJE9FNewhkjNs1B9XRx1kHC3Y60ouMj/view?usp=share_link
 
-`Forest_mask_test.ipynb` - Блокнот, посвященный тестированию моделей
+`Forest_mask_test.ipynb` - Блокнот, посвященный тестированию моделей. В этом блокноте есть ссылки для скачивания некоторых предобученных моделей и результирующих масок.
 
 Этот же файл на гугл-диске, откуда его сразу можно открыть в Google Colab:
 https://drive.google.com/file/d/1BpJjdd4AtlyehJCfXu4P0JmL37jm0ChP/view?usp=share_link
